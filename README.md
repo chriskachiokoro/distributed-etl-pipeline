@@ -36,6 +36,7 @@ distributed-data-processing-pipeline/
 │
 ├── report/
 │   └── cookoro-finalproject.pdf
+│   └── cookoro-finalproject.docx
 ├── raw/
 │   └── week1.csv
 │   └── week2.csv
